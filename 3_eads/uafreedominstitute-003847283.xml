@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ead
+  PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "./dtds/ead.dtd">
+<ead>
+   <eadheader findaidstatus="Temp_record"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511">
+      <eadid countrycode="US"
+             mainagencycode="US-NcD"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::The Duke Review, 1989-2001. //EN"
+             url="http://library.duke.edu/rubenstein/findingaids/uafreedominstitute/">uafreedominstitute</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the The Duke Review, 1989-2001</titleproper>
+            <author>Processed by: University Archives Staff; finding aid derived from MARC record using DukeMARC2EAD_ua_record_groups.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library.</publisher>
+            <address>
+               <addressline>Duke University</addressline>
+               <addressline>Durham, NC 27708 U.S.A.</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+            </address>
+            <date normal="2014" encodinganalog="date">2014</date>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">003847283</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid derived from MARC record via DukeMARC2EAD_ua_record_groups.xsl <date>November 2014</date>
+         </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <repository label="Repository">
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</corpname>
+         </repository>
+         <unitid>UA.31.08.0800</unitid>
+         <origination label="Creator">
+            <corpname encodinganalog="110">Freedom Institute</corpname>
+         </origination>
+         <unittitle label="Title" encodinganalog="245">The Duke Review</unittitle>
+         <unitdate normal="1989/2001"
+                   type="inclusive"
+                   era="ce"
+                   calendar="gregorian">1989-2001</unitdate>
+         <langmaterial>
+            <language langcode="eng"/>
+         </langmaterial>
+         <langmaterial label="Language of Materials">Language: English</langmaterial>
+         <note label="Language of Materials">
+            <p>Language: English</p>
+         </note>
+         <physdesc>
+            <extent>2.4  linear feet</extent>
+         </physdesc>
+         <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract label="Abstract">The collection includes issues of The Duke Review from November 1989-October 2001 and includes duplicate issues. </abstract>
+      </did>
+      <descgrp type="admininfo">
+         <head>Administrative Information</head>
+         <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>Collection is open for research.</p>
+            <p>Researchers must register and agree to copyright and privacy laws before using this collection.</p>
+            <p>All or portions of this collection may be housed off-site in Duke University's Library Service Center. The library may require up to 48 hours to retrieve these materials for research use.</p>
+            <p>Please contact Research Services staff before visiting the University Archives to use this collection.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <head>Use Restrictions</head>
+            <p>Copyright for Official University records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], in the The Duke Review, 1989-2001, Duke University Archives, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+         </prefercite>
+         <acqinfo encodinganalog="541">
+            <head>Provenance</head>
+            <p>Transfer;</p>
+         </acqinfo>
+         <processinfo>
+            <head>Processing Information</head>
+            <p>Processed by: University Archives Staff</p>
+            <p>Finding aid derived from MARC record, November 2014</p>
+         </processinfo>
+      </descgrp>
+      <bioghist>
+         <head>Historical Note</head>
+         <p>The Duke Review was founded to "promote the ideals of the great minds of the Western cultural heritage." It was overseen by a Board of Directors and received input from an informal Advisory Board.</p>
+      </bioghist>
+      <scopecontent>
+         <head>Collection Overview</head>
+         <p>The collection includes issues of The Duke Review from November 1989-October 2001 and includes duplicate issues.</p>
+      </scopecontent>
+      <note label="General note">
+         <p>TEMPORARY RECORD.</p>
+      </note>
+      <note label="General note">
+         <p>Unprocessed collection. Cataloged from accession records.</p>
+      </note>
+   </archdesc>
+</ead>

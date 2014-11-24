@@ -129,6 +129,10 @@
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Articles about Duke Reference Collection.</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1</marc:subfield>
+            <marc:subfield code="f">linear feet</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">TEMPORARY RECORD.</marc:subfield>
         </marc:datafield>
@@ -970,8 +974,8 @@
             <marc:subfield code="f">1988-2002.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">1</marc:subfield>
-            <marc:subfield code="f">document box</marc:subfield>
+            <marc:subfield code="a">0.5</marc:subfield>
+            <marc:subfield code="f">linear feet</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">TEMPORARY RECORD</marc:subfield>
@@ -1177,8 +1181,8 @@
             <marc:subfield code="f">1999-2001.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">3</marc:subfield>
-            <marc:subfield code="f">RS boxes</marc:subfield>
+            <marc:subfield code="a">4.5</marc:subfield>
+            <marc:subfield code="f">linear feet</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">62</marc:subfield>
@@ -1194,7 +1198,7 @@
             <marc:subfield code="a">Closed 25 years from date of creation.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="520" ind1="8" ind2=" ">
-            <marc:subfield code="a">Files from working groups and draft plans from schools and administrative units that went into the campus planning document, Building on Excellence; also includes Building on Excellence website, 62 files; 3.5 MB.</marc:subfield>
+            <marc:subfield code="a">Files (3 boxes) from working groups and draft plans from schools and administrative units that went into the campus planning document, Building on Excellence; also includes Building on Excellence website, 62 files; 3.5 MB.</marc:subfield>
         </marc:datafield>
     </marc:record>
     <marc:record>
@@ -2061,6 +2065,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00522cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003077288</marc:controlfield>
         <marc:controlfield tag="005">20040712210100.0</marc:controlfield>
         <marc:controlfield tag="008">020531i19321958ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -2523,7 +2528,7 @@
             <marc:subfield code="a">Suggestion/answer book</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">1959 p. in various pagings (loose-leaf).</marc:subfield>
+            <marc:subfield code="a">1959 pages</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">Pagination irregular: 1-1000, 2100-2600, 2700-3159.</marc:subfield>
@@ -2732,6 +2737,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00640cpc a2200193Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003117655</marc:controlfield>
         <marc:controlfield tag="005">20040712211700.0</marc:controlfield>
         <marc:controlfield tag="008">021022i19671996ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -2857,8 +2863,8 @@
             <marc:subfield code="f">1988-1991.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">4</marc:subfield>
-            <marc:subfield code="f">reports (1 box)</marc:subfield>
+            <marc:subfield code="a">0.5</marc:subfield>
+            <marc:subfield code="f">linear feet</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">TEMPORARY RECORD</marc:subfield>
@@ -4053,6 +4059,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00540cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003090657</marc:controlfield>
         <marc:controlfield tag="005">20040712210600.0</marc:controlfield>
         <marc:controlfield tag="008">020722i19471996ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -4735,6 +4742,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00591cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003141316</marc:controlfield>
         <marc:controlfield tag="005">20040712212500.0</marc:controlfield>
         <marc:controlfield tag="008">030205i19951996ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -5250,7 +5258,7 @@
         <marc:leader>00518npm a22001215a 4500</marc:leader>
         <marc:controlfield tag="001">003513959</marc:controlfield>
         <marc:controlfield tag="005">20120907112620.0</marc:controlfield>
-        <marc:controlfield tag="008">060221|????    ???|||||||||||||| ||???|d</marc:controlfield>
+        <marc:controlfield tag="008">060221|????    ???|||||||||||||| ||eng|d</marc:controlfield>
         <marc:datafield tag="110" ind1="2" ind2=" ">
             <marc:subfield code="a">Fuqua School of Business (Duke University)</marc:subfield>
         </marc:datafield>
@@ -5541,6 +5549,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00546cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003075671</marc:controlfield>
         <marc:controlfield tag="005">20040712210100.0</marc:controlfield>
         <marc:controlfield tag="008">020524i19241975ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -6428,7 +6437,7 @@
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">8</marc:subfield>
-            <marc:subfield code="f">issues</marc:subfield>
+            <marc:subfield code="f">items</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">TEMPORARY RECORD.</marc:subfield>
@@ -6525,6 +6534,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00564cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003075425</marc:controlfield>
         <marc:controlfield tag="005">20040712210100.0</marc:controlfield>
         <marc:controlfield tag="008">020523i19541982ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -6583,10 +6593,10 @@
         </marc:datafield>
         <marc:datafield tag="110" ind1="2" ind2=" ">
             <marc:subfield code="a">Duke University.</marc:subfield>
-            <marc:subfield code="b">Program in Film/Video/Digital.</marc:subfield>
+            <marc:subfield code="b">Program in Film, Video, Digital.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
-            <marc:subfield code="a">Film/Video/Digital Program records,</marc:subfield>
+            <marc:subfield code="a">Film, Video, Digital Program records,</marc:subfield>
             <marc:subfield code="f">circa 1988-2000.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
@@ -7097,6 +7107,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00530cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003074976</marc:controlfield>
         <marc:controlfield tag="005">20040712210100.0</marc:controlfield>
         <marc:controlfield tag="008">020522i19421993ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -7229,6 +7240,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00515cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003253437</marc:controlfield>
         <marc:controlfield tag="005">20040712220500.0</marc:controlfield>
         <marc:controlfield tag="008">031120i19471979ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -10294,6 +10306,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00537cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003085673</marc:controlfield>
         <marc:controlfield tag="005">20040712210400.0</marc:controlfield>
         <marc:controlfield tag="008">020703i19501963ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -10385,6 +10398,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00482cpc a2200157Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003253438</marc:controlfield>
         <marc:controlfield tag="005">20040712220500.0</marc:controlfield>
         <marc:controlfield tag="008">031120i19851990ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -10683,8 +10697,9 @@
     </marc:record>
     <marc:record>
         <marc:leader>00480cpc a2200157Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003253372</marc:controlfield>
         <marc:controlfield tag="005">20040712220500.0</marc:controlfield>
-        <marc:controlfield tag="008">031120i196,967 ncu                 eng d</marc:controlfield>
+        <marc:controlfield tag="008">031120i1962,1967 ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
             <marc:subfield code="a">NDD</marc:subfield>
             <marc:subfield code="e">appm</marc:subfield>
@@ -10705,7 +10720,7 @@
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Robert C. Richardson research notebooks,</marc:subfield>
-            <marc:subfield code="f">ca. 1962-1967.</marc:subfield>
+            <marc:subfield code="f">circa 1962-1967</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">5</marc:subfield>
@@ -11785,6 +11800,10 @@
             <marc:subfield code="a">Collection,</marc:subfield>
             <marc:subfield code="f">1921</marc:subfield>
         </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">2</marc:subfield>
+            <marc:subfield code="f">items</marc:subfield>
+        </marc:datafield>
         <marc:datafield tag="545" ind1=" " ind2=" ">
             <marc:subfield code="a">Eugene Chesson graduated from Trinity College (Durham, N.C.) in 1921.</marc:subfield>
         </marc:datafield>
@@ -11912,7 +11931,7 @@
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
             <marc:subfield code="a">70</marc:subfield>
-            <marc:subfield code="f">photographs (19 pages)</marc:subfield>
+            <marc:subfield code="f">photographs</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">TEMPORARY RECORD</marc:subfield>
@@ -12791,7 +12810,7 @@
             <marc:subfield code="a">Library Service Center</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="110" ind1="2" ind2=" ">
-            <marc:subfield code="a">Circle K International (Organization : Duke University).</marc:subfield>
+            <marc:subfield code="a">Circle K International (Organization - Duke University).</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="245" ind1="1" ind2="0">
             <marc:subfield code="a">Circle K International - Duke University Chapter records,</marc:subfield>
@@ -12876,8 +12895,8 @@
             <marc:subfield code="f">2010-2012.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="300" ind1=" " ind2=" ">
-            <marc:subfield code="a">792</marc:subfield>
-            <marc:subfield code="f">files (1485 megabytes)</marc:subfield>
+            <marc:subfield code="a">1485</marc:subfield>
+            <marc:subfield code="f">megabytes</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
             <marc:subfield code="a">TEMPORARY RECORD.</marc:subfield>
@@ -12895,7 +12914,7 @@
             <marc:subfield code="a">The Environmental Alliance is an undergraduate student organization committed to promoting the implementation of sustainable practices here at Duke University.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="520" ind1="8" ind2=" ">
-            <marc:subfield code="a">Records consist of documents related to planned events, meeting attendance, and organization administration. Materials related to events include planning documents, photographs, and digital video.</marc:subfield>
+            <marc:subfield code="a">Records (792 files) consist of documents related to planned events, meeting attendance, and organization administration. Materials related to events include planning documents, photographs, and digital video.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="541" ind1=" " ind2=" ">
             <marc:subfield code="a">Environmental Alliance.</marc:subfield>
@@ -12908,6 +12927,7 @@
     </marc:record>
     <marc:record>
         <marc:leader>00536cpc a2200169Ia 4500</marc:leader>
+        <marc:controlfield tag="001">003138878</marc:controlfield>
         <marc:controlfield tag="005">20040712212400.0</marc:controlfield>
         <marc:controlfield tag="008">030129i19601992ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -12939,7 +12959,7 @@
             <marc:subfield code="a">TEMPORARY RECORD.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="500" ind1=" " ind2=" ">
-            <marc:subfield code="a">Stored offsite. May require 24 hours for retrieval.</marc:subfield>
+            <marc:subfield code="a">St11ored offsite. May require 24 hours for retrieval.</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="506" ind1=" " ind2=" ">
             <marc:subfield code="a">These materials are restricted by donor request.</marc:subfield>

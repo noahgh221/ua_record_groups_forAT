@@ -1,0 +1,21 @@
+272 total records
+
+260 with 001 field -- need to assign Aleph nums to others [done]
+
+185/272 are "Temporary Records"
+
+17 note closed
+
+Dumping Subject headings into generic note field so as not to pollute subject/name tables in AT
+
+Will need to clean up EADID, URL, Filenames before publishing
+
+Mapped all 5xx note fields to <note> field in AT
+
+Need to isolate lin. ft statements to populate extent field [done, sort of]
+	Tracy should clean up 148ish records with item counts
+
+
+	
+
+
