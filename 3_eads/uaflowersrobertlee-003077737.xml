@@ -102,8 +102,8 @@
          <p>Stored offsite. May require 24 hours for retrieval.</p>
       </note>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Baker, Lenox D.    </persname>
-         <persname source="lcsh" encodinganalog="600">Flowers, Robert Lee.    </persname>
+         <persname source="lcsh" encodinganalog="600">Baker, Lenox D.</persname>
+         <persname source="lcsh" encodinganalog="600">Flowers, Robert Lee.</persname>
       </controlaccess>
    </archdesc>
 </ead>

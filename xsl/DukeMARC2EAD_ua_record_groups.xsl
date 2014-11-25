@@ -256,7 +256,7 @@
   
      <xsl:choose>
        <!-- Exclude normal attribute on unitdate when uuuu dates present -->
-       <xsl:when test="$CollectionNormalEndDate='uuuu'"> 
+       <xsl:when test="$CollectionNormalEndDate='uuuu' or contains($CollectionNormalStartDate,'?')"> 
        <unitdate type="inclusive" era="ce" calendar="gregorian">
          <xsl:choose>
            <xsl:when test="matches($CollectionDate,',$')">
@@ -457,7 +457,7 @@
             <acqinfo encodinganalog="541">
               <head>Provenance</head>
               <xsl:for-each select="marc:datafield[@tag='541']">
-                <p><xsl:value-of select="normalize-space(translate(.,'.',''))"/></p>
+                <p><xsl:value-of select="normalize-space(replace(translate(.,'.',''), ';', ','))"/></p>
               </xsl:for-each>
             </acqinfo>
           </xsl:if>
@@ -510,7 +510,8 @@
         
         
 <!-- ONLINE CATALOG HEADINGS -->
-        
+
+
   <xsl:if test="marc:datafield[@tag='600'] | marc:datafield[@tag='610'] | marc:datafield[@tag='650'] | marc:datafield[@tag='655'] | marc:datafield[@tag='611'] | marc:datafield[@tag='651'] | marc:datafield[@tag='700'] | marc:datafield[@tag='710']">
   <controlaccess>
           <!-- TOPICAL SUBJECTS -->
@@ -541,7 +542,6 @@
           </xsl:for-each>
           </xsl:if>
             
-          
           <xsl:if test="marc:datafield[@tag='600'][@ind1='1'] | marc:datafield[@tag='700'][@ind1='1']">
               <xsl:for-each select="marc:datafield[@tag='600'][@ind1='1'] | marc:datafield[@tag='700'][@ind1='1']">
                 <xsl:sort select="marc:subfield[@code='a']"/>
@@ -549,21 +549,37 @@
                   <xsl:when test="@tag='600'">
                    
                       <persname source="lcsh" encodinganalog="600">
+                        
+                        
                         <xsl:value-of select="normalize-space(marc:subfield[@code='a'])"/>
-                        <xsl:text> </xsl:text>
+                        <xsl:if test ="marc:subfield[@code='a'] and marc:subfield[@code='d']">
+                          <xsl:text> </xsl:text>
+                        </xsl:if>
+                        
+                        <xsl:if test="marc:subfield[@code='q']">
                         <xsl:value-of select="normalize-space(marc:subfield[@code='q'])"/>
                         <xsl:text> </xsl:text>
+                        </xsl:if>
+                        
+                        <xsl:if test="marc:subfield[@code='d']">
                         <xsl:value-of select="normalize-space(replace(marc:subfield[@code='d'],'\.$',''))"/>
-                        <xsl:text> </xsl:text>
+                        </xsl:if>
+                        
+                        <xsl:if test="marc:subfield[@code='c']">
                         <xsl:value-of select="normalize-space(marc:subfield[@code='c'])"/>
                         <xsl:text> </xsl:text>
+                        </xsl:if>
+                        
+                        <xsl:if test="marc:subfield[@code='e']">
                         <xsl:value-of select="normalize-space(marc:subfield[@code='e'])"/>
+                        </xsl:if>
+                        
                         <xsl:for-each select="marc:subfield[@code='x'] | marc:subfield[@code='v'] | marc:subfield[@code='y'] | marc:subfield[@code='z']">
                           <xsl:text> -- </xsl:text>
                           <xsl:value-of select="normalize-space(replace(.,',$',''))"/>
-                        </xsl:for-each>
-                      </persname>
-                    
+                        </xsl:for-each>                      
+                    </persname>
+            
                   </xsl:when>
                   <xsl:otherwise>
                     
@@ -581,7 +597,9 @@
                 </xsl:choose>
               </xsl:for-each>
             </xsl:if>
-            
+         
+    
+    
          
           <!--FOR FAMILY NAMES -->
             <xsl:if test="marc:datafield[@tag='600'][@ind1='3'] | marc:datafield[@tag='700'][@ind1='3']">

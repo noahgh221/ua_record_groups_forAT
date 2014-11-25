@@ -84,7 +84,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1960</p>
+            <p>Transfer, 1960</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -102,9 +102,9 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Book collectors -- North Carolina</subject>
-         <persname source="lcsh" encodinganalog="600">Adams, Randolph Greenfield,  1892-1951  </persname>
-         <persname source="lcsh" encodinganalog="600">Boyd, William K. (William Kenneth), 1879-1938  </persname>
-         <persname source="lcsh" encodinganalog="600">Gilbert, Allan.    </persname>
+         <persname source="lcsh" encodinganalog="600">Adams, Randolph Greenfield, 1892-1951</persname>
+         <persname source="lcsh" encodinganalog="600">Boyd, William K. (William Kenneth), 1879-1938</persname>
+         <persname source="lcsh" encodinganalog="600">Gilbert, Allan.</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.). Library</corpname>
       </controlaccess>
    </archdesc>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Gift; 2008</p>
+            <p>Gift, 2008</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,8 +104,8 @@
          <p>Letter, signed by Ewing and written to his parents, April 1853. The letter describes the courses taken by Ewing, the price of books, the challenges of his studies and the college's president, Braxton Craven.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Craven, B. (Braxton), 1822-1882  </persname>
-         <persname source="lcsh" encodinganalog="600">Ewing, W. Thomas H.    </persname>
+         <persname source="lcsh" encodinganalog="600">Craven, B. (Braxton), 1822-1882</persname>
+         <persname source="lcsh" encodinganalog="600">Ewing, W. Thomas H.</persname>
          <corpname source="lcsh" encodinganalog="610">Normal College (Randolph Cty., N.C.)</corpname>
          <corpname source="lcsh" encodinganalog="610">Normal College (Randolph Cty., N.C.) -- Students</corpname>
       </controlaccess>

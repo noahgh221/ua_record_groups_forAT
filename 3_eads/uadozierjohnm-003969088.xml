@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1986</p>
+            <p>Transfer, 1986</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Handwritten memoir of administrative history at Duke University from 1949-1966.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Dozier, John M.    </persname>
+         <persname source="lcsh" encodinganalog="600">Dozier, John M.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Administration</corpname>
       </controlaccess>
    </archdesc>

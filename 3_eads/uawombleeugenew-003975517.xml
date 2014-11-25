@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 2000</p>
+            <p>Transfer, 2000</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,8 +101,8 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Sermons, American -- 19th century</subject>
-         <persname source="lcsh" encodinganalog="600">Spurgeon, C. H. (Charles Haddon), 1834-1892  </persname>
-         <persname source="lcsh" encodinganalog="600">Womble, Eugene W.    </persname>
+         <persname source="lcsh" encodinganalog="600">Spurgeon, C. H. (Charles Haddon), 1834-1892</persname>
+         <persname source="lcsh" encodinganalog="600">Womble, Eugene W.</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Randolph County, N.C.)</corpname>
          <title encodinganalog="630">Twelve Sermons for Inquirers Delivered at the Metropolitan Tabernacle.</title>
       </controlaccess>

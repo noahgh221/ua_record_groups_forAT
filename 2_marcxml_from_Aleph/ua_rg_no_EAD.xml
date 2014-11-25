@@ -10699,7 +10699,7 @@
         <marc:leader>00480cpc a2200157Ia 4500</marc:leader>
         <marc:controlfield tag="001">003253372</marc:controlfield>
         <marc:controlfield tag="005">20040712220500.0</marc:controlfield>
-        <marc:controlfield tag="008">031120i1962,1967 ncu                 eng d</marc:controlfield>
+        <marc:controlfield tag="008">031120i19621967ncu                 eng d</marc:controlfield>
         <marc:datafield tag="040" ind1=" " ind2=" ">
             <marc:subfield code="a">NDD</marc:subfield>
             <marc:subfield code="e">appm</marc:subfield>

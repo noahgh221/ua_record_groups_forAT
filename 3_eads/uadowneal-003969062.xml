@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1985</p>
+            <p>Transfer, 1985</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,9 +104,9 @@
          <p>Correspondence with Jacques De Lacretelle (granting Dow permission to publish a short story in a book co-edited by Dow) and Albert Husson, author of a play translated into English as "My Three Angels." Letters are written in French.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Dow, Neal,  1906-  </persname>
-         <persname source="lcsh" encodinganalog="600">Husson, Albert.    </persname>
-         <persname source="lcsh" encodinganalog="600">Lacretelle, Jacques de,  1888-1985  </persname>
+         <persname source="lcsh" encodinganalog="600">Dow, Neal, 1906-</persname>
+         <persname source="lcsh" encodinganalog="600">Husson, Albert.</persname>
+         <persname source="lcsh" encodinganalog="600">Lacretelle, Jacques de, 1888-1985</persname>
          <title encodinganalog="630">My Three Angels.</title>
       </controlaccess>
    </archdesc>

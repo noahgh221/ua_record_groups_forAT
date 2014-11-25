@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1980</p>
+            <p>Transfer, 1980</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,8 +104,8 @@
          <p>Letter dated June 8, 1930 from Professor Anderson to one Nutting. The letter mentions Hattie Gordon (Mrs. Kenneth Fry) as a possible candidate for a faculty vacancy and reveals one aspect of administrative hiring policies in the early 1930's.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Anderson, Andrew R.    </persname>
-         <persname source="lcsh" encodinganalog="600">Gordon, Hattie.    </persname>
+         <persname source="lcsh" encodinganalog="600">Anderson, Andrew R.</persname>
+         <persname source="lcsh" encodinganalog="600">Gordon, Hattie.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Faculty</corpname>
       </controlaccess>
    </archdesc>

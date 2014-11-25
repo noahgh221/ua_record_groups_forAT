@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1996</p>
+            <p>Transfer, 1996</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -105,7 +105,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Olympics -- Participation, American</subject>
-         <persname source="lcsh" encodinganalog="600">Clausen, Curt.    </persname>
+         <persname source="lcsh" encodinganalog="600">Clausen, Curt.</persname>
       </controlaccess>
    </archdesc>
 </ead>

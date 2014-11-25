@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1979</p>
+            <p>Transfer, 1979</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,10 +104,10 @@
          <p>Includes correspondence from David Magie to Rogers, a memorial tribute by William Willis of the American Philological Association, Rogers' presidential address to the American Philological Association in 1961, and a letter to him by Sir Ronald Syme.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Magie, David.    </persname>
-         <persname source="lcsh" encodinganalog="600">Rogers, Robert Samuel,  -1968  </persname>
-         <persname source="lcsh" encodinganalog="600">Syme, Ronald,  1903-1989  </persname>
-         <persname source="lcsh" encodinganalog="600">Willis, William H.    </persname>
+         <persname source="lcsh" encodinganalog="600">Magie, David.</persname>
+         <persname source="lcsh" encodinganalog="600">Rogers, Robert Samuel, -1968</persname>
+         <persname source="lcsh" encodinganalog="600">Syme, Ronald, 1903-1989</persname>
+         <persname source="lcsh" encodinganalog="600">Willis, William H.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Department of Classical Studies</corpname>
       </controlaccess>
    </archdesc>

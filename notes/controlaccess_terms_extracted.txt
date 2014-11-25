@@ -1,0 +1,323 @@
+original_term	cleaned_term	term_type	eadid_term_source
+Book collectors -- North Carolina	new_term	subject	uaadamsrandolphgreenfield
+Adams, Randolph Greenfield, 1892-1951	new_term	persname	uaadamsrandolphgreenfield
+Boyd, William K. (William Kenneth), 1879-1938	new_term	persname	uaadamsrandolphgreenfield
+Gilbert, Allan.	new_term	persname	uaadamsrandolphgreenfield
+Trinity College (Durham, N.C.). Library	new_term	corpname	uaadamsrandolphgreenfield
+Poetry, Modern -- 20th century	new_term	subject	uaaldenjohnrichard
+Alden, John Richard, 1908-1991	new_term	persname	uaaldenjohnrichard
+Women -- Societies and clubs	new_term	subject	uaaldridgebertha
+Aldridge, Bertha	new_term	persname	uaaldridgebertha
+Chicken Salad Club (Durham, N.C.)	new_term	corpname	uaaldridgebertha
+Sewing Club (Durham, N.C.)	new_term	corpname	uaaldridgebertha
+Anderson, Andrew R.	new_term	persname	uaandersonandrewrunni
+Gordon, Hattie.	new_term	persname	uaandersonandrewrunni
+Duke University -- Faculty	new_term	corpname	uaandersonandrewrunni
+Anderson, Julian.	new_term	persname	uaandersonjulian
+Duke University -- Alumni and alumnae	new_term	corpname	uaandersonjulian
+Arthur, William,Jr.	new_term	persname	uaarthurwilliam
+Knight, Douglas M., 1921-2005	new_term	persname	uaarthurwilliam
+Avery, Caroline Long.	new_term	persname	uaaverycarolinelong
+Normal College (Randolph County, N.C.)	new_term	corpname	uaaverycarolinelong
+Trinity College (Randolph County, N.C.)	new_term	corpname	uaaverycarolinelong
+Bible records -- North Carolina	new_term	subject	uabarbeefamily
+Barbee family.	new_term	famname	uabarbeefamily
+Barnett-Robisheaux, Mason.	new_term	persname	uabarnettrobisheauxmason
+Goldfarb, Eve.	new_term	persname	uabarnettrobisheauxmason
+Duke University -- Students	new_term	corpname	uabarnettrobisheauxmason
+Duke University -- Buildings	new_term	corpname	uabarnettrobisheauxmason
+Duke University -- Housing	new_term	corpname	uabarnettrobisheauxmason
+Presidents -- United States -- Inauguration	new_term	subject	uaboycebenjamin
+Allen, Ralph, approximately 1693-1764	new_term	persname	uaboycebenjamin
+Allen, Ralph, approximately 1693-1764	new_term	persname	uaboycebenjamin
+Blunt, Anthony, 1907-1983	new_term	persname	uaboycebenjamin
+Blunt, Anthony, 1907-1983	new_term	persname	uaboycebenjamin
+Boyce, Benjamin, 1903-1997	new_term	persname	uaboycebenjamin
+Boyd, Julian P. (Julian Parks), 1903-1980	new_term	persname	uaboydjulianp
+Craven, Wesley Frank, 1905-1981	new_term	persname	uaboydjulianp
+Trinity College (Durham, N.C.) -- Alumni and alumnae	new_term	corpname	uaboydjulianp
+Duke University -- Buildings	new_term	corpname	uabryantprints
+Fluorspar	new_term	subject	uabuckjohannessybrandt
+Buck, Johannes Sybrandt, 1895-	new_term	persname	uabuckjohannessybrandt
+Jenkins, Sanford S.	new_term	persname	uabuckjohannessybrandt
+Foote Mineral Company.	new_term	corpname	uabuckjohannessybrandt
+Tiffany and Company.	new_term	corpname	uabuckjohannessybrandt
+Roads -- North Carolina -- Durham	new_term	subject	uabuddisabelle
+Budd, Isabelle.	new_term	persname	uabuddisabelle
+Duke Forest (N.C.). Homesites	new_term	corpname	uabuddisabelle
+World War, 1914-1918	new_term	subject	uabullardlucillem
+Bullard, Lucille M.	new_term	persname	uabullardlucillem
+American Red Cross.	new_term	corpname	uabullardlucillem
+Trinity College (Durham, N.C.) -- Alumnae Association	new_term	corpname	uabullardlucillem
+Trinity College (Durham, N.C.) -- Alumnae War Work	new_term	corpname	uabullardlucillem
+Trinity College (Durham, N.C.) -- Alumnae War Work Committee	new_term	corpname	uabullardlucillem
+Brown, C. R.	new_term	persname	uacherrywilliamhix
+Cherry, William Hix.	new_term	persname	uacherrywilliamhix
+Flowers, Robert Lee.	new_term	persname	uacherrywilliamhix
+British-American Tobacco Co. (China) -- Employees	new_term	corpname	uacherrywilliamhix
+Trinity College (Durham, N.C.) -- Alumni and alumnae	new_term	corpname	uacherrywilliamhix
+Chesson, Eugene.	new_term	persname	uachessoneugene
+Trinity College (Durham, N.C.) -- Alumni and alumnae	new_term	corpname	uachessoneugene
+Trinity College (Durham, N.C.) -- Students	new_term	corpname	uachessoneugene
+Brownell, William A. (William Arthur), 1895-1977	new_term	persname	uachildsbenjaminguy
+Childs, Benjamin Guy.	new_term	persname	uachildsbenjaminguy
+Garber, Paul N. (Paul Neff), 1899-1972	new_term	persname	uachildsbenjaminguy
+Pearse, A. S. (Arthur Sperry), 1877-1956	new_term	persname	uachildsbenjaminguy
+Duke University. Department of Education -- Faculty	new_term	corpname	uachildsbenjaminguy
+Phi Delta Theta Fraternity.	new_term	corpname	uachildsbenjaminguy
+Lake Junaluska (N.C.)	new_term	geogname	uachildsbenjaminguy
+Olympics -- Participation, American	new_term	subject	uaclausencurt
+Clausen, Curt.	new_term	persname	uaclausencurt
+Bliven, Bruce, 1889-1977	new_term	persname	uaclumjohnm
+Clum, John M.	new_term	persname	uaclumjohnm
+Cowley, Malcolm, 1898-1989	new_term	persname	uaclumjohnm
+Tate, Allen, 1899-1979	new_term	persname	uaclumjohnm
+Clyde, Paul Hibbert, 1896-1998	new_term	persname	uaclydepaulhibbert
+Duke Endowment -- History	new_term	corpname	uaclydepaulhibbert
+Duke University. Department of History	new_term	corpname	uaclydepaulhibbert
+Duke University. Summer Session	new_term	corpname	uaclydepaulhibbert
+Duke University. University Committee on Long-Range Planning	new_term	corpname	uaclydepaulhibbert
+Duke University. Commonwealth-Studies Center	new_term	corpname	uaclydepaulhibbert
+Duke University. Canadian Studies Center	new_term	corpname	uaclydepaulhibbert
+Duke University. Gross-Edens Affair	new_term	corpname	uaclydepaulhibbert
+Cole, James Reid, 1839-1917	new_term	persname	uacolejamesreid
+Trinity College (Randolph County, N.C.)	new_term	corpname	uacolejamesreid
+Corbin, Charlotte.	new_term	persname	uacorbinlucylyon
+Duke University -- History -- 20th century	new_term	corpname	uacorbinlucylyon
+Duke University -- Housing	new_term	corpname	uacorbinlucylyon
+Duke University. University House	new_term	corpname	uacorbinlucylyon
+Cotten, Jane Nolan.	new_term	persname	uacottenwhitworth
+Cotten, Whitworth.	new_term	persname	uacottenwhitworth
+Duke University -- Construction	new_term	corpname	uacottenwhitworth
+Duke University -- Students -- Attitudes	new_term	corpname	uacottenwhitworth
+Duke University -- Social life and customs	new_term	corpname	uacottenwhitworth
+Duke University -- Students -- Societies, etc	new_term	corpname	uacottenwhitworth
+David, Ann Rauschenberg.	new_term	persname	uadavidannrauschenberg
+Duke University -- Students -- Social life and customs	new_term	corpname	uadavidannrauschenberg
+Quadrangle Pictures (Duke University)	new_term	corpname	uadavidannrauschenberg
+Quadrangle Pictures (Duke University) -- Periodicals	new_term	corpname	uadavidannrauschenberg
+Duke University. Auxiliary Services	new_term	corpname	uadixonthomase
+Duke University. Board of Trustees	new_term	corpname	uadixonthomase
+Duke University. Committee on Social Implications of Duke's Investment Policy	new_term	corpname	uadixonthomase
+Duke University. Facilities Management Department	new_term	corpname	uadixonthomase
+Duke University. Office of Human Resources	new_term	corpname	uadixonthomase
+Duke University. President's Advisory Committee on Resources	new_term	corpname	uadixonthomase
+Duke University. Vice President for Administrative Services	new_term	corpname	uadixonthomase
+Washington Duke Inn & Golf Club (Durham, N.C.) -- History	new_term	corpname	uadixonthomase
+Dow, Neal, 1906-	new_term	persname	uadowneal
+Husson, Albert.	new_term	persname	uadowneal
+Lacretelle, Jacques de, 1888-1985	new_term	persname	uadowneal
+Dozier, John M.	new_term	persname	uadozierjohnm
+Duke University -- Administration	new_term	corpname	uadozierjohnm
+Africa -- Study and teaching -- United States	new_term	geogname	uadukeuniversitycommitteeoninternationalstudies
+Canada -- Study and teaching -- United States	new_term	geogname	uadukeuniversitycommitteeoninternationalstudies
+East Asia -- Study and teaching -- United States	new_term	geogname	uadukeuniversitycommitteeoninternationalstudies
+Latin America -- Study and teaching -- United States	new_term	geogname	uadukeuniversitycommitteeoninternationalstudies
+Middle East -- Study and teaching -- United States	new_term	geogname	uadukeuniversitycommitteeoninternationalstudies
+South Asia -- Study and teaching -- United States	new_term	geogname	uadukeuniversitycommitteeoninternationalstudies
+Duke University -- History -- 20th century	new_term	corpname	uadukeuniversitycounselingcenter
+Duke University. Bureau of Testing and Guidance	new_term	corpname	uadukeuniversitycounselingcenter
+Duke University. Counseling Center	new_term	corpname	uadukeuniversitycounselingcenter
+Duke University -- Sports	new_term	corpname	uadukeuniversitydepartmentofathletics
+Duke University. Department of Athletics	new_term	corpname	uadukeuniversitydepartmentofathletics
+Duke University -- History -- 20th century	new_term	corpname	uadukeuniversitydepartmentofbotany
+Duke University. Department of Botany	new_term	corpname	uadukeuniversitydepartmentofbotany
+Duke University. Dept. of Music	new_term	corpname	uadukeuniversitydeptofmusic
+Sound recordings	new_term	genreform	uadukeuniversitydeptofmusic
+Video recordings	new_term	genreform	uadukeuniversitydeptofmusic
+College theater -- United States	new_term	subject	uadukeuniversitydukeplayers
+Duke University -- Students	new_term	corpname	uadukeuniversitydukeplayers
+Academic libraries -- Reference services -- North Carolina -- Durham	new_term	subject	uadukeuniversitylibrary
+Libraries -- User satisfaction	new_term	subject	uadukeuniversitylibrary
+Duke University. Library	new_term	corpname	uadukeuniversitylibrary
+Duke University. Library. Answer Person.	new_term	corpname	uadukeuniversitylibrary
+College students -- Alcohol use -- North Carolina -- Durham	new_term	subject	uadukeuniversityofficeoffraternityandsororitylife
+Greek letter societies -- North Carolina -- Durham	new_term	subject	uadukeuniversityofficeoffraternityandsororitylife
+Duke University -- Students -- Societies, etc	new_term	corpname	uadukeuniversityofficeoffraternityandsororitylife
+Duke University -- Societies, etc	new_term	corpname	uadukeuniversityofficeoffraternityandsororitylife
+Duke University. Office of Fraternity and Sorority Life	new_term	corpname	uadukeuniversityofficeoffraternityandsororitylife
+Accreditation (Education)	new_term	subject	uadukeuniversityofficeoftheprovost
+Duke University -- Administration	new_term	corpname	uadukeuniversityofficeoftheprovost
+Duke University. Office of the Provost	new_term	corpname	uadukeuniversityofficeoftheprovost
+Duke University -- Faculty	new_term	corpname	uadukeuniversityofficeoftheprovost
+Duke University -- Administration	new_term	corpname	uadukeuniversityofficeoftheprovost
+Duke University. Office of the Provost	new_term	corpname	uadukeuniversityofficeoftheprovost
+Lange, Peter 1944-	new_term	persname	uadukeuniversityofficeoftheprovost
+Cox, Richard.	new_term	persname	uadukeuniversityofficeofuniversitylife
+Duke University -- Administration	new_term	corpname	uadukeuniversityofficeofuniversitylife
+Duke University -- Students -- Social life and customs	new_term	corpname	uadukeuniversityofficeofuniversitylife
+Duke University. Office of Cultural Affairs	new_term	corpname	uadukeuniversityofficeofuniversitylife
+Duke University. Greek Life Task Force	new_term	corpname	uadukeuniversityofficeofuniversitylife
+Mathematics -- Periodicals	new_term	subject	uadukeuniversitypress
+American Mathematical Society.	new_term	corpname	uadukeuniversitypress
+Duke University Press.	new_term	corpname	uadukeuniversitypress
+Duke University. Mathematics Department.	new_term	corpname	uadukeuniversitypress
+Duke University. Program in Film/Video/Digital	new_term	corpname	uadukeuniversityprograminfilmvideodigital
+Duke University. Program in Film and Video	new_term	corpname	uadukeuniversityprograminfilmvideodigital
+Duke University -- Faculty	new_term	corpname	uadukeuniversityrealestateadministration
+Duke University -- Employees	new_term	corpname	uadukeuniversityrealestateadministration
+Duke University. Real Estate Administration	new_term	corpname	uadukeuniversityrealestateadministration
+Duke University -- Students	new_term	corpname	uadukeuniversityuniversityarchives
+United States. Navy V-12 Program -- History	new_term	corpname	uadukeuniversityuniversityarchives
+Poetry -- Women authors	new_term	subject	uaduncanexie
+Duncan, Exie.	new_term	persname	uaduncanexie
+Edwards, Charles William, 1873-1955	new_term	persname	uaedwardscharleswilliam
+Trinity College (Durham, N.C.) -- History -- 20th century	new_term	corpname	uaedwardscharleswilliam
+Trinity College (Durham, N.C.) -- Faculty	new_term	corpname	uaedwardscharleswilliam
+Ehlhardt, George Brinkmann.	new_term	persname	uaehlhardtgeorgebrinkmann
+Frost, Robert, 1874-1963 -- Correspondence.	new_term	persname	uaehlhardtgeorgebrinkmann
+Kenyon College.	new_term	corpname	uaehlhardtgeorgebrinkmann
+Everett, Robinson O.	new_term	persname	uaeverettrobinsono
+Larson, Arthur.	new_term	persname	uaeverettrobinsono
+O'Brien, James E.	new_term	persname	uaeverettrobinsono
+Duke University. School of Law -- Faculty	new_term	corpname	uaeverettrobinsono
+Craven, B. (Braxton), 1822-1882	new_term	persname	uaewingwthomash
+Ewing, W. Thomas H.	new_term	persname	uaewingwthomash
+Normal College (Randolph Cty., N.C.)	new_term	corpname	uaewingwthomash
+Normal College (Randolph Cty., N.C.) -- Students	new_term	corpname	uaewingwthomash
+Ferguson, Oliver W. (Oliver Watkins), 1924-	new_term	persname	uafergusonoliverw
+World War, 1939-1945 -- Personal narratives	new_term	subject	uafikeclaudee
+Fike, Claude E.	new_term	persname	uafikeclaudee
+Duke University -- Alumni and alumnae	new_term	corpname	uafikeclaudee
+Baker, Lenox D.	new_term	persname	uaflowersrobertlee
+Flowers, Robert Lee.	new_term	persname	uaflowersrobertlee
+Frattini, Randall.	new_term	persname	uafrattinirandall
+Duke University -- Students -- Social life and customs	new_term	corpname	uafrattinirandall
+Gilbert, Katharine Everett, 1886-1952	new_term	persname	uagilbertkatharineeverett
+Duke University -- Faculty	new_term	corpname	uagilbertkatharineeverett
+Duke University. Department of Aesthetics, Art, and Music	new_term	corpname	uagilbertkatharineeverett
+Personal narratives	new_term	subject	uagoingwilliamthornbury
+Going, William Thornbury, 1915-	new_term	persname	uagoingwilliamthornbury
+Duke University -- Alumni and alumnae	new_term	corpname	uagoingwilliamthornbury
+Women -- Drama	new_term	subject	uagrossgladyspeterson
+Duke University -- Students	new_term	corpname	uagrossgladyspeterson
+Duke University. Duke Players	new_term	corpname	uagrossgladyspeterson
+Duke University. Board of Trustees.	new_term	corpname	uahanksnancy
+Heckscher, William S. (William Sebastian), 1904-1999	new_term	persname	uaheckscherwilliams
+Duke University -- Faculty	new_term	corpname	uaheckscherwilliams
+Duke University. Department of Art and Art History -- Faculty	new_term	corpname	uaheckscherwilliams
+Scholarships -- North Carolina -- Durham	new_term	subject	uahighsmithfamily
+Jackson, Delwood S.	new_term	persname	uahighsmithfamily
+Highsmith family.	new_term	famname	uahighsmithfamily
+Jackson, Harry R.	new_term	persname	uajacksonharryr
+Duke University. Allen Building Takeover	new_term	corpname	uajacksonharryr
+Jensen, Howard Eikenberry, 1889-1970	new_term	persname	uajensenhowardeikenberry
+Duke University -- Students	new_term	corpname	uajensenhowardeikenberry
+Durham (N.C.) -- History -- 20th century	new_term	geogname	uajensenhowardeikenberry
+Women college administrators -- North Carolina	new_term	subject	uakennedyelizabethfronde
+Women in higher education -- North Carolina -- Durham	new_term	subject	uakennedyelizabethfronde
+Women -- Employment	new_term	subject	uakennedyelizabethfronde
+Personal narratives	new_term	subject	uakennedyelizabethfronde
+Kennedy, Elizabeth Fronde.	new_term	persname	uakennedyelizabethfronde
+Trinity College (Durham, N.C.) -- Administration	new_term	corpname	uakennedyelizabethfronde
+Suicide -- North Carolina	new_term	subject	uakuhleleanor
+Kuhl, Eleanor.	new_term	persname	uakuhleleanor
+Spikes, Vera.	new_term	persname	uakuhleleanor
+Wiley, Wayne.	new_term	persname	uakuhleleanor
+Duke University. Chapel	new_term	corpname	uakuhleleanor
+Personal narratives	new_term	subject	ualagerstedtkennethraymond
+Lagerstedt, Kenneth Raymond.	new_term	persname	ualagerstedtkennethraymond
+Sanford, Terry, 1917-1998	new_term	persname	ualagerstedtkennethraymond
+Duke University -- Alumni and alumnae	new_term	corpname	ualagerstedtkennethraymond
+Lassiter, William Carroll, 1909-	new_term	persname	ualassiterwilliamcarroll
+Duke University -- Songs and music	new_term	corpname	ualassiterwilliamcarroll
+Leinbach, Philip E.	new_term	persname	ualeinbachphilipe
+Duke University -- Students -- Societies, etc	new_term	corpname	ualeinbachphilipe
+Omicron Delta Kappa. Rho Circle Chapter (Duke University)	new_term	corpname	ualeinbachphilipe
+Flowers, William W.	new_term	persname	ualiggett&myerstobaccocompany
+Liggett & Myers Tobacco Company.	new_term	corpname	ualiggett&myerstobaccocompany
+Gullahs -- South Carolina	new_term	subject	uamanigaultbryantlerhondas
+Manigault-Bryant, LeRhonda S., 1977-	new_term	persname	uamanigaultbryantlerhondas
+Duke University -- Students	new_term	corpname	uamanigaultbryantlerhondas
+Cooke, Miriam.	new_term	persname	uamoroccoatdukescrapbook
+Duke University -- Faculty	new_term	corpname	uamoroccoatdukescrapbook
+Duke University -- History -- 20th century	new_term	corpname	uamoroccoatdukescrapbook
+Nielsen, Walter McKinley, 1900-	new_term	persname	uanielsenwaltermckinley
+Duke University -- Faculty	new_term	corpname	uanielsenwaltermckinley
+Duke University. Department of Physics -- Faculty	new_term	corpname	uanielsenwaltermckinley
+Avila, Juan.	new_term	persname	uapatrickben
+Der Tatevasian, Roosevelt A.	new_term	persname	uapatrickben
+Patrick, Ben.	new_term	persname	uapatrickben
+Duke University -- Students	new_term	corpname	uapatrickben
+Duke University -- Alumni and alumnae	new_term	corpname	uapatrickben
+Peppler, Charles William, 1872-	new_term	persname	uapepplercharleswilliam
+Stirewalt, M. Luther, 1913-	new_term	persname	uapepplercharleswilliam
+Stirewalt, M. Luther, 1913-	new_term	persname	uapepplercharleswilliam
+Duke University -- Faculty	new_term	corpname	uapepplercharleswilliam
+Duke University -- Graduate students	new_term	corpname	uapepplercharleswilliam
+Duke University. Department of Classical Studies	new_term	corpname	uapepplercharleswilliam
+Personal narratives	new_term	subject	uapridgenfamily
+Woodworking tools	new_term	subject	uapridgenfamily
+Pridgen, Linton.	new_term	persname	uapridgenfamily
+Pridgen, Lorraine.	new_term	persname	uapridgenfamily
+Pridgen family.	new_term	famname	uapridgenfamily
+Durham (N.C.) -- History -- 20th century	new_term	geogname	uapridgenfamily
+Personal narratives	new_term	subject	uarobbinscecilw
+Robbins, Cecil W.	new_term	persname	uarobbinscecilw
+Magie, David.	new_term	persname	uarogersrobertsamuel
+Rogers, Robert Samuel, -1968	new_term	persname	uarogersrobertsamuel
+Syme, Ronald, 1903-1989	new_term	persname	uarogersrobertsamuel
+Willis, William H.	new_term	persname	uarogersrobertsamuel
+Duke University. Department of Classical Studies	new_term	corpname	uarogersrobertsamuel
+Luvaas, Jay.	new_term	persname	uaropptheodore
+Ropp, Theodore, 1911-2000	new_term	persname	uaropptheodore
+Personal narratives	new_term	subject	uaroyrobertc
+Roy, Robert C.	new_term	persname	uaroyrobertc
+Wannamaker, William Hane, 1873-	new_term	persname	uaroyrobertc
+Trinity College (Durham, N.C.) -- History -- 20th century	new_term	corpname	uaroyrobertc
+Trinity College (Durham, N.C.) -- Alumni and alumnae	new_term	corpname	uaroyrobertc
+Secrest, E. L.	new_term	persname	uasecrestel
+Duke University -- Alumni and alumnae	new_term	corpname	uasecrestel
+Trinity College (Durham, N.C.) -- Alumni and alumnae	new_term	corpname	uasecrestel
+Seeman, Ernest, 1886-1979	new_term	persname	uaseemanernest
+Duke family -- Public opinion.	new_term	famname	uaseemanernest
+Duke University -- Public opinion	new_term	corpname	uaseemanernest
+Arnold, Dean E., 1942-	new_term	persname	uashryockrichardharrison
+Boyd, William K. (William Kenneth), 1879-1938	new_term	persname	uashryockrichardharrison
+Laprade, William Thomas, 1883-1975	new_term	persname	uashryockrichardharrison
+Rowland, Dunbar, 1864-1937	new_term	persname	uashryockrichardharrison
+Shryock, Richard Harrison, 1893-1972	new_term	persname	uashryockrichardharrison
+Duke University -- Faculty	new_term	corpname	uashryockrichardharrison
+Duke University -- History -- 20th century	new_term	corpname	uashryockrichardharrison
+Greek letter societies	new_term	subject	uasigmachifraternitybetalambdachapterdukeuniversity
+Greek letter societies -- North Carolina -- Durham	new_term	subject	uasigmachifraternitybetalambdachapterdukeuniversity
+Duke University -- Societies, etc	new_term	corpname	uasigmachifraternitybetalambdachapterdukeuniversity
+Duke University -- Students -- Societies, etc	new_term	corpname	uasigmachifraternitybetalambdachapterdukeuniversity
+Sigma Chi Fraternity.	new_term	corpname	uasigmachifraternitybetalambdachapterdukeuniversity
+Sigma Chi Fraternity. Beta Lambda Chapter (Duke University)	new_term	corpname	uasigmachifraternitybetalambdachapterdukeuniversity
+Trinity College (Durham, N.C.) -- Students -- Societies, etc	new_term	corpname	uasigmachifraternitybetalambdachapterdukeuniversity
+Architecture -- North Carolina -- Durham -- History -- 20th century	new_term	subject	uaspillerroberternest
+Spiller, Robert Ernest, 1896-1988	new_term	persname	uaspillerroberternest
+Duke University -- History -- 20th century	new_term	corpname	uaspillerroberternest
+Thigpen, Richard Elton, 1900-	new_term	persname	uathigpenrichardelton
+Duke University. Nixon Library Controversy	new_term	corpname	uathigpenrichardelton
+Trinity College (Durham, N.C.) -- Alumni and alumnae	new_term	corpname	uathigpenrichardelton
+Trinity College (Durham, N.C.) -- Students	new_term	corpname	uathigpenrichardelton
+Trinity College (Durham, N.C.). Hesperian Literary Society	new_term	corpname	uathigpenrichardelton
+Tsʻao family.	new_term	famname	uatsaofamily
+Duke University -- Students	new_term	corpname	uatsaofamily
+Duke University -- Alumni and alumnae	new_term	corpname	uatsaofamily
+Powell, Benjamin E. (Benjamin Edward), 1905-1981	new_term	persname	uaturrentinewalterwilliam
+Turrentine, Walter William, 1901-	new_term	persname	uaturrentinewalterwilliam
+Trinity College (Durham, N.C.). Band	new_term	corpname	uaturrentinewalterwilliam
+Duke University. Board of Trustees.	new_term	corpname	uawadecharlesb
+Lanson, Gustave, 1857-1934 -- Library.	new_term	persname	uawebbalbertmicajah
+Webb, Albert Micajah, 1877-1965	new_term	persname	uawebbalbertmicajah
+Duke University -- Faculty	new_term	corpname	uawebbalbertmicajah
+Duke University. Department of Romance Languages	new_term	corpname	uawebbalbertmicajah
+South Atlantic Publishing Company.	new_term	corpname	uawebbalbertmicajah
+Gresham, Diane.	new_term	persname	uawhitfordwilliamedward
+Harward, Stephen.	new_term	persname	uawhitfordwilliamedward
+Huestis, Charles B., 1920-	new_term	persname	uawhitfordwilliamedward
+Whitford, William Edward, 1902-1984	new_term	persname	uawhitfordwilliamedward
+Duke University -- History -- 20th century	new_term	corpname	uawhitfordwilliamedward
+Duke University -- Alumni and alumnae	new_term	corpname	uawhitfordwilliamedward
+Wolfe, James Jacob, 1875-1920	new_term	persname	uawolfejamesjacob
+Duke University. Department of Biology -- Faculty	new_term	corpname	uawolfejamesjacob
+Sermons, American -- 19th century	new_term	subject	uawombleeugenew
+Spurgeon, C. H. (Charles Haddon), 1834-1892	new_term	persname	uawombleeugenew
+Womble, Eugene W.	new_term	persname	uawombleeugenew
+Trinity College (Randolph County, N.C.)	new_term	corpname	uawombleeugenew
+Wright, Isaiah L.	new_term	persname	uawrightisaiahl
+Normal College (Randolph County, N.C.) -- History	new_term	corpname	uawrightisaiahl
+Normal College (Randolph County, N.C.) -- Students	new_term	corpname	uawrightisaiahl

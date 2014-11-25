@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1977</p>
+            <p>Transfer, 1977</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,7 +100,7 @@
          <p>"Sidelights on the Development of Normal School into Trinity College (now Duke University)" was written by Avery in 1976. According to a letter she wrote to Dr. Mattie Russell of the former Manuscript Dept. at Perkins Library, she used letters from the Southern Historical Collection at the University of North Carolina at Chapel Hill as her sources. The history does not include footnotes or a bibliography but does offer that Avery used letters from Major William McKendree Robbins to Mary Montgomery and from Mrs. Marquis Wood to the Hon. Gaston Robbins.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Avery, Caroline Long.    </persname>
+         <persname source="lcsh" encodinganalog="600">Avery, Caroline Long.</persname>
          <corpname source="lcsh" encodinganalog="610">Normal College (Randolph County, N.C.)</corpname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Randolph County, N.C.)</corpname>
       </controlaccess>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1971</p>
+            <p>Transfer, 1971</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,11 +104,11 @@
          <p>Letters to Shryock during the formative years of Duke University. Correspondents include Dunbar Rowland, W. T. Laprade, W. K. Boyd, Dean Arnold and others, revealing the beginning of West Campus and academic policy. Also includes a grade book for the years 1927-1930.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Arnold, Dean E.,  1942-  </persname>
-         <persname source="lcsh" encodinganalog="600">Boyd, William K. (William Kenneth), 1879-1938  </persname>
-         <persname source="lcsh" encodinganalog="600">Laprade, William Thomas,  1883-1975  </persname>
-         <persname source="lcsh" encodinganalog="600">Rowland, Dunbar,  1864-1937  </persname>
-         <persname source="lcsh" encodinganalog="600">Shryock, Richard Harrison,  1893-1972  </persname>
+         <persname source="lcsh" encodinganalog="600">Arnold, Dean E., 1942-</persname>
+         <persname source="lcsh" encodinganalog="600">Boyd, William K. (William Kenneth), 1879-1938</persname>
+         <persname source="lcsh" encodinganalog="600">Laprade, William Thomas, 1883-1975</persname>
+         <persname source="lcsh" encodinganalog="600">Rowland, Dunbar, 1864-1937</persname>
+         <persname source="lcsh" encodinganalog="600">Shryock, Richard Harrison, 1893-1972</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Faculty</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- History -- 20th century</corpname>
       </controlaccess>

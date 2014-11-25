@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 2002</p>
+            <p>Transfer, 2002</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Collection includes three photographs, a program, an item from the "Alumni Register," and an "In Memoriam." The mounted photograph, circa 1914, shows thirteen men posed in cap and gown. This item has been separated and placed in the map cabinet. The two other photographs, both undated, include an unidentified man as well one of E. L. Secrest and maybe his brothers. The program is from the 1964 meeting of the Duke University Alumni Association at which Secrest gave the invocation. The "In Memoriam" lists the names of individuals from the 1914 class who were deceased at the time of publication and was likely distributed at the Alumni Association event in 1964. There is also a cut-out from an issue of the "Alumni Register" regarding the 1964 meeting, which includes a photograph of Secrest and his wife being greeted by President Knight.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Secrest, E. L.    </persname>
+         <persname source="lcsh" encodinganalog="600">Secrest, E. L.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Alumni and alumnae</corpname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Alumni and alumnae</corpname>
       </controlaccess>

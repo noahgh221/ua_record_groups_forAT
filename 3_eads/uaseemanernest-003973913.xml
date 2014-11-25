@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1983</p>
+            <p>Transfer, 1983</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Seeman wrote a book on Duke, the Duke family and Durham entitled AMERICAN GOLD. It is most likely that the correspondence in this collection was written to ferret out information for that volume, but there is other material included as well. Some of Seeman's concerns were drinking and dissoluteness among college students in the late 1950s; the role of fraternities; the connection between tobacco, cigarettes, cancer and the North Carolina economy, education and big business. The material ranges in date from 1938-1978, with the bulk dated between 1956-1960.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Seeman, Ernest,  1886-1979  </persname>
+         <persname source="lcsh" encodinganalog="600">Seeman, Ernest, 1886-1979</persname>
          <famname source="lcsh" encodinganalog="600">Duke family    -- Public opinion.</famname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Public opinion</corpname>
          <title encodinganalog="630">American Gold.</title>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1974</p>
+            <p>Transfer, 1974</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,7 +100,7 @@
          <p>Copy of a paper written by Duke student Randall Frattini concerning streaking at the University. Streaking was an activity in which people, primarily students, removed their clothing and ran naked through the quadrangle. The major streaks at Duke occurred, according to Frattini, on the nights of February 28 and March 1, 1974. This is his eyewitness account.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Frattini, Randall.    </persname>
+         <persname source="lcsh" encodinganalog="600">Frattini, Randall.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students -- Social life and customs</corpname>
       </controlaccess>
    </archdesc>

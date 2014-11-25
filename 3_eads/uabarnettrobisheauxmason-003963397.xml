@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1984</p>
+            <p>Transfer, 1984</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,8 +100,8 @@
          <p>Letter from Eve Goldbarb, Freshman Advisory Counselor, to Mason Barnett '79, then a freshman. Written in August 1975 just before the beginning of the school year, it describes the students and activities of the Graduate Center Dormitory (now Trent Drive Hall).</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Barnett-Robisheaux, Mason.    </persname>
-         <persname source="lcsh" encodinganalog="600">Goldfarb, Eve.    </persname>
+         <persname source="lcsh" encodinganalog="600">Barnett-Robisheaux, Mason.</persname>
+         <persname source="lcsh" encodinganalog="600">Goldfarb, Eve.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Buildings</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Housing</corpname>

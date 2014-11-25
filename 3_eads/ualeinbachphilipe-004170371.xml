@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Gift; 2001</p>
+            <p>Gift, 2001</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Materials collected by Leinbach, including clippings, programs for the Rho Circle Chapter of Omicron Delta Kappa initiation banquets, 1956 commencement invitation, YMCA banquet menu/program, Dad's Day program, brochure, and host ribbon, and a 1955 issue of "Nu News."</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Leinbach, Philip E.    </persname>
+         <persname source="lcsh" encodinganalog="600">Leinbach, Philip E.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students -- Societies, etc</corpname>
          <corpname source="lcsh" encodinganalog="610">Omicron Delta Kappa. Rho Circle Chapter (Duke University)</corpname>
       </controlaccess>

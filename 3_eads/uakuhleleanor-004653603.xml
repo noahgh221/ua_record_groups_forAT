@@ -104,9 +104,9 @@
       </note>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Suicide -- North Carolina</subject>
-         <persname source="lcsh" encodinganalog="600">Kuhl, Eleanor.    </persname>
-         <persname source="lcsh" encodinganalog="600">Spikes, Vera.    </persname>
-         <persname source="lcsh" encodinganalog="600">Wiley, Wayne.    </persname>
+         <persname source="lcsh" encodinganalog="600">Kuhl, Eleanor.</persname>
+         <persname source="lcsh" encodinganalog="600">Spikes, Vera.</persname>
+         <persname source="lcsh" encodinganalog="600">Wiley, Wayne.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Chapel</corpname>
       </controlaccess>
    </archdesc>

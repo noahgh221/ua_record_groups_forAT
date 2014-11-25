@@ -84,7 +84,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 2002</p>
+            <p>Transfer, 2002</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,9 +101,9 @@
          <p>Collection includes material on Roosevelt A. Der Tatevasian, who graduated from Duke University in 1939 and was a roommate of Ben Patrick. A photograph album includes photographs and printed materials and there is also a chalk drawing signed by Juan Avila.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Avila, Juan.    </persname>
-         <persname source="lcsh" encodinganalog="600">Der Tatevasian, Roosevelt A.    </persname>
-         <persname source="lcsh" encodinganalog="600">Patrick, Ben.    </persname>
+         <persname source="lcsh" encodinganalog="600">Avila, Juan.</persname>
+         <persname source="lcsh" encodinganalog="600">Der Tatevasian, Roosevelt A.</persname>
+         <persname source="lcsh" encodinganalog="600">Patrick, Ben.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Alumni and alumnae</corpname>
       </controlaccess>

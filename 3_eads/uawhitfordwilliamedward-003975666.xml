@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1983</p>
+            <p>Transfer, 1983</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,10 +104,10 @@
          <p>Transcript of a conversation between Charles Huestis, Stephen Harward, Diana Gresham, and W. E. Whitford, dated 1981. Whitford discusses his memories of being a student at Duke as well as an employee.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Gresham, Diane.    </persname>
-         <persname source="lcsh" encodinganalog="600">Harward, Stephen.    </persname>
-         <persname source="lcsh" encodinganalog="600">Huestis, Charles B.,  1920-  </persname>
-         <persname source="lcsh" encodinganalog="600">Whitford, William Edward,  1902-1984  </persname>
+         <persname source="lcsh" encodinganalog="600">Gresham, Diane.</persname>
+         <persname source="lcsh" encodinganalog="600">Harward, Stephen.</persname>
+         <persname source="lcsh" encodinganalog="600">Huestis, Charles B., 1920-</persname>
+         <persname source="lcsh" encodinganalog="600">Whitford, William Edward, 1902-1984</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- History -- 20th century</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Alumni and alumnae</corpname>
       </controlaccess>

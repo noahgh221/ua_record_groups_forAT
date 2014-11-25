@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Donation; 1990</p>
+            <p>Donation, 1990</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,7 +101,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Personal narratives</subject>
-         <persname source="lcsh" encodinganalog="600">Robbins, Cecil W.    </persname>
+         <persname source="lcsh" encodinganalog="600">Robbins, Cecil W.</persname>
       </controlaccess>
    </archdesc>
 </ead>

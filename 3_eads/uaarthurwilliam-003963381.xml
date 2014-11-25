@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1978</p>
+            <p>Transfer, 1978</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -103,8 +103,8 @@
          <p>Quoting from this article is not allowed without permission of the creator.</p>
       </note>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Arthur, William,   Jr. </persname>
-         <persname source="lcsh" encodinganalog="600">Knight, Douglas M.,  1921-2005  </persname>
+         <persname source="lcsh" encodinganalog="600">Arthur, William,Jr. </persname>
+         <persname source="lcsh" encodinganalog="600">Knight, Douglas M., 1921-2005</persname>
       </controlaccess>
    </archdesc>
 </ead>

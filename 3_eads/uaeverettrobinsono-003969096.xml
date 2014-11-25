@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1977</p>
+            <p>Transfer, 1977</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,9 +104,9 @@
          <p>Miscellaneous papers and correspondence of Professor Everett, including papers concerning a study of "Class Q Allotments" for the Army's Judge Advocate General, memoranda to Arthur Larson, and correspondence from James E. O'Brien.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Everett, Robinson O.    </persname>
-         <persname source="lcsh" encodinganalog="600">Larson, Arthur.    </persname>
-         <persname source="lcsh" encodinganalog="600">O'Brien, James E.    </persname>
+         <persname source="lcsh" encodinganalog="600">Everett, Robinson O.</persname>
+         <persname source="lcsh" encodinganalog="600">Larson, Arthur.</persname>
+         <persname source="lcsh" encodinganalog="600">O'Brien, James E.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University. School of Law -- Faculty</corpname>
       </controlaccess>
    </archdesc>

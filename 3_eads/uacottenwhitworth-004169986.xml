@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Gift; 2005</p>
+            <p>Gift, 2005</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,8 +104,8 @@
          <p>The letter, written by Cotten to his cousin Jane Nolan Cotten in circa 1927, provides a student's account of campus during the transition period between the renaming of Trinity College to Duke University and the construction of West Campus. It describes the living conditions at the University and other aspects of student life.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Cotten, Jane Nolan.    </persname>
-         <persname source="lcsh" encodinganalog="600">Cotten, Whitworth.    </persname>
+         <persname source="lcsh" encodinganalog="600">Cotten, Jane Nolan.</persname>
+         <persname source="lcsh" encodinganalog="600">Cotten, Whitworth.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Construction</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students -- Attitudes</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Social life and customs</corpname>

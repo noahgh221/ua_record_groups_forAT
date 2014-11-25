@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1973</p>
+            <p>Transfer, 1973</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,7 +100,7 @@
          <p>Comments by Oliver W. Ferguson as Editor of the SOUTH ATLANTIC QUARTERLY on the nature and status of the journal in 1973.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Ferguson, Oliver W. (Oliver Watkins), 1924-  </persname>
+         <persname source="lcsh" encodinganalog="600">Ferguson, Oliver W. (Oliver Watkins), 1924-</persname>
          <title encodinganalog="630">South Atlantic quarterly.</title>
       </controlaccess>
    </archdesc>

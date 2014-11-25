@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Gift; 2004</p>
+            <p>Gift, 2004</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Collection includes a commencement week invitation and a poem, both dated 1921.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Chesson, Eugene.    </persname>
+         <persname source="lcsh" encodinganalog="600">Chesson, Eugene.</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Alumni and alumnae</corpname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Students</corpname>
       </controlaccess>

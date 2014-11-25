@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1968, 1982</p>
+            <p>Transfer, 1968, 1982</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,8 +104,8 @@
          <p>Correspondence which includes letters Peppler wrote to his parents in Baltimore while he and Mrs. Peppler were traveling abroad. They are largely travelogs written on shipboard and in several European cities. A letter dated 6 May 1928 states that James B. Duke died of pernicious anemia. There is also correspondence between Peppler and Dr. Luther Stirewalt, then a graduate student working under Peppler. The letters show insight into the teaching methodology used by classics professors and into the life of a classics graduate student. The papers of 1968 consist of a letter from a sister of Peppler, Mrs. M.S. Porter; a memorial sketch of Dr. Peppler, and one page of genealogy from Volume 5 of the First Families of America.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Peppler, Charles William,  1872-  </persname>
-         <persname source="lcsh" encodinganalog="600">Stirewalt, M. Luther,  1913-  </persname>
+         <persname source="lcsh" encodinganalog="600">Peppler, Charles William, 1872-</persname>
+         <persname source="lcsh" encodinganalog="600">Stirewalt, M. Luther, 1913-</persname>
          <persname source="lcsh" encodinganalog="700">Stirewalt, M. Luther,  1913- </persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Faculty</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Graduate students</corpname>

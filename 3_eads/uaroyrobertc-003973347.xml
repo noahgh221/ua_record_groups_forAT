@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1977</p>
+            <p>Transfer, 1977</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -105,8 +105,8 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Personal narratives</subject>
-         <persname source="lcsh" encodinganalog="600">Roy, Robert C.    </persname>
-         <persname source="lcsh" encodinganalog="600">Wannamaker, William Hane,  1873-  </persname>
+         <persname source="lcsh" encodinganalog="600">Roy, Robert C.</persname>
+         <persname source="lcsh" encodinganalog="600">Wannamaker, William Hane, 1873-</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- History -- 20th century</corpname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Alumni and alumnae</corpname>
       </controlaccess>

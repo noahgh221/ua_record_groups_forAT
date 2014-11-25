@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1974</p>
+            <p>Transfer, 1974</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Includes manuscript of farewell lecture to Duke (August 1974), "A List of Publications and Studies in the Field of Iconography and Iconology Originating from the Iconological Institute in the University of Utrecht, the Netherlands," which was undertaken during the directorship of Heckscher (1955-1966), and ART JOURNAL, Winter 1967/68 issue which features an article co-written by Heckscher.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Heckscher, William S. (William Sebastian), 1904-1999  </persname>
+         <persname source="lcsh" encodinganalog="600">Heckscher, William S. (William Sebastian), 1904-1999</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Faculty</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Department of Art and Art History -- Faculty</corpname>
       </controlaccess>

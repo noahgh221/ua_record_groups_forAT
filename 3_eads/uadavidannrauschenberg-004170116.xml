@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Gift; 1992</p>
+            <p>Gift, 1992</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>The collection consists of printed materials, primarily programs for cultural events on campus. Included is a booklet giving the schedule and selected film reviews for the Quadrangle Pictures season of 1939-1940 and programs for Quadrangle Pictures events, concerts, and other events which largely took place in Page Auditorium. The collection ranges in date from 1933, 1937-1941.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">David, Ann Rauschenberg.    </persname>
+         <persname source="lcsh" encodinganalog="600">David, Ann Rauschenberg.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students -- Social life and customs</corpname>
          <corpname source="lcsh" encodinganalog="610">Quadrangle Pictures (Duke University)</corpname>
          <corpname source="lcsh" encodinganalog="610">Quadrangle Pictures (Duke University) -- Periodicals</corpname>

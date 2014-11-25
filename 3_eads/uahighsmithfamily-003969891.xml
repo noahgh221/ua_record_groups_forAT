@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1986</p>
+            <p>Transfer, 1986</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,7 +101,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Scholarships -- North Carolina -- Durham</subject>
-         <persname source="lcsh" encodinganalog="600">Jackson, Delwood S.    </persname>
+         <persname source="lcsh" encodinganalog="600">Jackson, Delwood S.</persname>
          <famname source="lcsh" encodinganalog="600">Highsmith family.   </famname>
       </controlaccess>
    </archdesc>

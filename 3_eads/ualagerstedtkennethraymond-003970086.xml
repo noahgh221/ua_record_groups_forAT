@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1984</p>
+            <p>Transfer, 1984</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,8 +101,8 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Personal narratives</subject>
-         <persname source="lcsh" encodinganalog="600">Lagerstedt, Kenneth Raymond.    </persname>
-         <persname source="lcsh" encodinganalog="600">Sanford, Terry,  1917-1998  </persname>
+         <persname source="lcsh" encodinganalog="600">Lagerstedt, Kenneth Raymond.</persname>
+         <persname source="lcsh" encodinganalog="600">Sanford, Terry, 1917-1998</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Alumni and alumnae</corpname>
       </controlaccess>
    </archdesc>

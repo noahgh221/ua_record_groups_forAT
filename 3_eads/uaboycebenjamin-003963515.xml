@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1981, 1983</p>
+            <p>Transfer, 1981, 1983</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -105,11 +105,11 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Presidents -- United States -- Inauguration</subject>
-         <persname source="lcsh" encodinganalog="600">Allen, Ralph,  approximately 1693-1764  </persname>
+         <persname source="lcsh" encodinganalog="600">Allen, Ralph, approximately 1693-1764</persname>
          <persname source="lcsh" encodinganalog="700">Allen, Ralph,  approximately 1693-1764 </persname>
-         <persname source="lcsh" encodinganalog="600">Blunt, Anthony,  1907-1983  </persname>
+         <persname source="lcsh" encodinganalog="600">Blunt, Anthony, 1907-1983</persname>
          <persname source="lcsh" encodinganalog="700">Blunt, Anthony,  1907-1983 </persname>
-         <persname source="lcsh" encodinganalog="600">Boyce, Benjamin,  1903-1997  </persname>
+         <persname source="lcsh" encodinganalog="600">Boyce, Benjamin, 1903-1997</persname>
       </controlaccess>
    </archdesc>
 </ead>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 2002</p>
+            <p>Transfer, 2002</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -105,7 +105,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Roads -- North Carolina -- Durham</subject>
-         <persname source="lcsh" encodinganalog="600">Budd, Isabelle.    </persname>
+         <persname source="lcsh" encodinganalog="600">Budd, Isabelle.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke Forest (N.C.). Homesites</corpname>
       </controlaccess>
    </archdesc>

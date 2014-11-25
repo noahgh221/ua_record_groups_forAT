@@ -51,16 +51,16 @@
             <persname encodinganalog="100">Richardson, Robert C. (Robert Coleman), 1937-</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Robert C. Richardson research notebooks</unittitle>
-         <unitdate normal="1962/,196"
+         <unitdate normal="1962/1967"
                    type="inclusive"
                    era="ce"
                    calendar="gregorian">circa 1962-1967</unitdate>
          <langmaterial>
-            <language langcode="  e"/>
+            <language langcode="eng"/>
          </langmaterial>
-         <langmaterial label="Language of Materials">Language: LANGUAGE?</langmaterial>
+         <langmaterial label="Language of Materials">Language: English</langmaterial>
          <note label="Language of Materials">
-            <p>Language: LANGUAGE?</p>
+            <p>Language: English</p>
          </note>
          <physdesc>
             <extent>5 items</extent>

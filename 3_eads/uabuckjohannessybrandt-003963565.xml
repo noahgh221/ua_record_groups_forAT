@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1975</p>
+            <p>Transfer, 1975</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -105,8 +105,8 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Fluorspar</subject>
-         <persname source="lcsh" encodinganalog="600">Buck, Johannes Sybrandt,  1895-  </persname>
-         <persname source="lcsh" encodinganalog="600">Jenkins, Sanford S.    </persname>
+         <persname source="lcsh" encodinganalog="600">Buck, Johannes Sybrandt, 1895-</persname>
+         <persname source="lcsh" encodinganalog="600">Jenkins, Sanford S.</persname>
          <corpname source="lcsh" encodinganalog="610">Foote Mineral Company.</corpname>
          <corpname source="lcsh" encodinganalog="610">Tiffany and Company.</corpname>
       </controlaccess>

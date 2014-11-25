@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1986</p>
+            <p>Transfer, 1986</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Contains chapter 3 from Cole's 1913 memoir "Seven Decades of My Life." In this chapter, Cole comments on Marcus L. Wood and Braxton Craven.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Cole, James Reid,  1839-1917  </persname>
+         <persname source="lcsh" encodinganalog="600">Cole, James Reid, 1839-1917</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Randolph County, N.C.)</corpname>
          <title encodinganalog="630">Seven Decades of My Life.</title>
       </controlaccess>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1967</p>
+            <p>Transfer, 1967</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,7 +100,7 @@
          <p>An eleven page commentary on the purpose of the work of the Dept. of Aesthetics, Art and Music, of which Gilbert was Chair for a number of years.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Gilbert, Katharine Everett,  1886-1952  </persname>
+         <persname source="lcsh" encodinganalog="600">Gilbert, Katharine Everett, 1886-1952</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Faculty</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Department of Aesthetics, Art, and Music</corpname>
       </controlaccess>

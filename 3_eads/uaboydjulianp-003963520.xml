@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1974</p>
+            <p>Transfer, 1974</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,8 +100,8 @@
          <p>Typewritten copy of speech delivered by Julian P. Boyd at the retirement dinner in honor of Wesley Frank Craven, Princeton University, May 4, 1973. Boyd tells of their friendship as students at Trinity College in the early 1920s.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Boyd, Julian P. (Julian Parks), 1903-1980  </persname>
-         <persname source="lcsh" encodinganalog="600">Craven, Wesley Frank,  1905-1981  </persname>
+         <persname source="lcsh" encodinganalog="600">Boyd, Julian P. (Julian Parks), 1903-1980</persname>
+         <persname source="lcsh" encodinganalog="600">Craven, Wesley Frank, 1905-1981</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Alumni and alumnae</corpname>
       </controlaccess>
    </archdesc>

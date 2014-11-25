@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1991</p>
+            <p>Transfer, 1991</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Fall 1990 issue of "la fontana," which includes the short story "Creature Comfort" by Anderson.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Anderson, Julian.    </persname>
+         <persname source="lcsh" encodinganalog="600">Anderson, Julian.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Alumni and alumnae</corpname>
          <title encodinganalog="630">Fontana.</title>
          <title encodinganalog="630">Creature Comfort.</title>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1962, 1965</p>
+            <p>Transfer, 1962, 1965</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,8 +104,8 @@
          <p>Includes "Dictionary for Military Historians," "Additional Comments," "Freshmen Historians?," "Remarks on Historical Pedagogy," and "Encyclopedias," all written by Ropp as well as "Looking for the Civil War," by Jay Luvaas.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Luvaas, Jay.    </persname>
-         <persname source="lcsh" encodinganalog="600">Ropp, Theodore,  1911-2000  </persname>
+         <persname source="lcsh" encodinganalog="600">Luvaas, Jay.</persname>
+         <persname source="lcsh" encodinganalog="600">Ropp, Theodore, 1911-2000</persname>
       </controlaccess>
    </archdesc>
 </ead>

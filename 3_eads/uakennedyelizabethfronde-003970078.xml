@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1983, 1992</p>
+            <p>Transfer, 1983, 1992</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -108,7 +108,7 @@
          <subject source="lcsh" encodinganalog="650">Women in higher education -- North Carolina -- Durham</subject>
          <subject source="lcsh" encodinganalog="650">Women -- Employment</subject>
          <subject source="lcsh" encodinganalog="650">Personal narratives</subject>
-         <persname source="lcsh" encodinganalog="600">Kennedy, Elizabeth Fronde.    </persname>
+         <persname source="lcsh" encodinganalog="600">Kennedy, Elizabeth Fronde.</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Administration</corpname>
       </controlaccess>
    </archdesc>

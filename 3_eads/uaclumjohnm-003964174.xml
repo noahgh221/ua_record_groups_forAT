@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1973</p>
+            <p>Transfer, 1973</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,10 +104,10 @@
          <p>Letters to Professor John M. Clum from Malcolm Cowley, Bruce Bliven, and Allen Tate in response to Clum's requesting of them information about Ridgely Torrence.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Bliven, Bruce,  1889-1977  </persname>
-         <persname source="lcsh" encodinganalog="600">Clum, John M.    </persname>
-         <persname source="lcsh" encodinganalog="600">Cowley, Malcolm,  1898-1989  </persname>
-         <persname source="lcsh" encodinganalog="600">Tate, Allen,  1899-1979  </persname>
+         <persname source="lcsh" encodinganalog="600">Bliven, Bruce, 1889-1977</persname>
+         <persname source="lcsh" encodinganalog="600">Clum, John M.</persname>
+         <persname source="lcsh" encodinganalog="600">Cowley, Malcolm, 1898-1989</persname>
+         <persname source="lcsh" encodinganalog="600">Tate, Allen, 1899-1979</persname>
       </controlaccess>
    </archdesc>
 </ead>

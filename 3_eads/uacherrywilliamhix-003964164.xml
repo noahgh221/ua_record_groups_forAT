@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1978-1979</p>
+            <p>Transfer, 1978-1979</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,9 +104,9 @@
          <p>Collection includes four declamations written by Cherry, "The Grand Old South," "The Greatness of the Poet," "The Progress of Civilization," and "Nature Declares There is a God." Also included is a 1918 letter to Cherry from Robert Lee Flowers, Secretary of Trinity College and a photocopy of a 1925 letter from C. R. Brown of British-American Tobacco (China) Limited.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Brown, C. R.    </persname>
-         <persname source="lcsh" encodinganalog="600">Cherry, William Hix.    </persname>
-         <persname source="lcsh" encodinganalog="600">Flowers, Robert Lee.    </persname>
+         <persname source="lcsh" encodinganalog="600">Brown, C. R.</persname>
+         <persname source="lcsh" encodinganalog="600">Cherry, William Hix.</persname>
+         <persname source="lcsh" encodinganalog="600">Flowers, Robert Lee.</persname>
          <corpname source="lcsh" encodinganalog="610">British-American Tobacco Co. (China) -- Employees</corpname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Alumni and alumnae</corpname>
       </controlaccess>

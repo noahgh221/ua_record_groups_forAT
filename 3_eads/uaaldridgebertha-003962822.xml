@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Donation; 1997</p>
+            <p>Donation, 1997</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,7 +101,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Women -- Societies and clubs</subject>
-         <persname source="lcsh" encodinganalog="600">Aldridge, Bertha.    </persname>
+         <persname source="lcsh" encodinganalog="600">Aldridge, Bertha.</persname>
          <corpname source="lcsh" encodinganalog="610">Chicken Salad Club (Durham, N.C.)</corpname>
          <corpname source="lcsh" encodinganalog="610">Sewing Club (Durham, N.C.)</corpname>
       </controlaccess>

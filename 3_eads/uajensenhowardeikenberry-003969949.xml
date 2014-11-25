@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1962, 1971</p>
+            <p>Transfer, 1962, 1971</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Includes a bound volume of birthday greetings by colleagues and friends from around the country given to Jensen in 1954, correspondence from 1952-1970, criminology class reading list, reprints of Jensen's article entitled "Planning for the Blind in North Carolina," which appeared in THE NEW OUTLOOK (May 1952), material concerning Durham, including the 1950/51 annual report, a report on the Daisy Scarborough Home, Inc. (May 1942), genealogical information, and orientation-related items for foreign students at Duke in 1952.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Jensen, Howard Eikenberry,  1889-1970  </persname>
+         <persname source="lcsh" encodinganalog="600">Jensen, Howard Eikenberry, 1889-1970</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students</corpname>
          <geogname source="lcsh" encodinganalog="651">Durham (N.C.) -- History -- 20th century</geogname>
          <title encodinganalog="630">Planning for the Blind in North Carolina.</title>

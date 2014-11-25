@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Gift; 1994</p>
+            <p>Gift, 1994</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>The collection contains documentation regarding the clarification of copyright of the Duke songs "Dear Old Duke" and "Blue and White."</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Lassiter, William Carroll,  1909-  </persname>
+         <persname source="lcsh" encodinganalog="600">Lassiter, William Carroll, 1909-</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Songs and music</corpname>
       </controlaccess>
    </archdesc>

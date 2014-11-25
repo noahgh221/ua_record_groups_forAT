@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 2003</p>
+            <p>Transfer, 2003</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Collection includes correspondence, with subjects including Terry Sanford's retirement and the Nixon Library controversy, as well as class reunion booklets, programs for the Hesperian Literary Society's annual celebration in 1919, a program for the Annual Intersociety Debate, and course programs for the SATC program at Trinity College, 1918-1919. The collection ranges in date from 1918-1985.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Thigpen, Richard Elton,  1900-  </persname>
+         <persname source="lcsh" encodinganalog="600">Thigpen, Richard Elton, 1900-</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Nixon Library Controversy</corpname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Alumni and alumnae</corpname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.) -- Students</corpname>

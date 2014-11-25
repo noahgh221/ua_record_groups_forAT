@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1997</p>
+            <p>Transfer, 1997</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,7 +101,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Gullahs -- South Carolina</subject>
-         <persname source="lcsh" encodinganalog="600">Manigault-Bryant, LeRhonda S.,  1977-  </persname>
+         <persname source="lcsh" encodinganalog="600">Manigault-Bryant, LeRhonda S., 1977-</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Students</corpname>
       </controlaccess>
    </archdesc>

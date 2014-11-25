@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; unknown</p>
+            <p>Transfer, unknown</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,7 +104,7 @@
          <p>Includes two reports by Wolfe, both dated 1909; "Report of an Examination of Some Specimens of Tonka Bean," and "An Abstract of the Pathogenesis and Etiology of Pellagra of Prof. Guido Tizzoni."</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Wolfe, James Jacob,  1875-1920  </persname>
+         <persname source="lcsh" encodinganalog="600">Wolfe, James Jacob, 1875-1920</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Department of Biology -- Faculty</corpname>
          <title encodinganalog="630">Report of an Examination of Some Specimens of Tonka Bean.</title>
          <title encodinganalog="630">Abstract of the Pathogenesis and Etiology of Pellagra of Prof. Guido Tizzoni.</title>

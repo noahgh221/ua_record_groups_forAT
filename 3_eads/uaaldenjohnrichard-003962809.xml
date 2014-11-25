@@ -84,7 +84,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1977</p>
+            <p>Transfer, 1977</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -102,7 +102,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Poetry, Modern -- 20th century</subject>
-         <persname source="lcsh" encodinganalog="600">Alden, John Richard,  1908-1991  </persname>
+         <persname source="lcsh" encodinganalog="600">Alden, John Richard, 1908-1991</persname>
       </controlaccess>
    </archdesc>
 </ead>

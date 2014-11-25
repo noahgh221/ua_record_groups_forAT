@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1977</p>
+            <p>Transfer, 1977</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,7 +100,7 @@
          <p>"Leaflets of Memory from my Friends" is an album containing written comments by friends of I. L. Wright, upon his graduation from Normal College in 1854. Normal College is a predecessor to Duke University.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Wright, Isaiah L.    </persname>
+         <persname source="lcsh" encodinganalog="600">Wright, Isaiah L.</persname>
          <corpname source="lcsh" encodinganalog="610">Normal College (Randolph County, N.C.) -- History</corpname>
          <corpname source="lcsh" encodinganalog="610">Normal College (Randolph County, N.C.) -- Students</corpname>
       </controlaccess>

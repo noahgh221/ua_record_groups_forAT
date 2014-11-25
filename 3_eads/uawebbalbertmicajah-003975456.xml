@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1960-1961, 1963-1964</p>
+            <p>Transfer, 1960-1961, 1963-1964</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,8 +104,8 @@
          <p>Correspondence, printed material, stock certificates, clippings, reports, manuscripts, and other papers. The collection includes materials related to Duke Library's 1927 purchase of the Gustave Lanson Library; stock certificates for the South Atlantic Publishing Company (early publisher of the South Atlantic Quarterly), correspondence and notes of Prof. Webb concerning his retirement, a 1912 lecture by him, reports on the Dept. of Romance Languages (1944/45, 1946/47), and a pamphlet on the Duke Summer School in France (1921). A few items are in French.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Lanson, Gustave,  1857-1934   -- Library.</persname>
-         <persname source="lcsh" encodinganalog="600">Webb, Albert Micajah,  1877-1965  </persname>
+         <persname source="lcsh" encodinganalog="600">Lanson, Gustave, 1857-1934 -- Library.</persname>
+         <persname source="lcsh" encodinganalog="600">Webb, Albert Micajah, 1877-1965</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Faculty</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Department of Romance Languages</corpname>
          <corpname source="lcsh" encodinganalog="610">South Atlantic Publishing Company.</corpname>

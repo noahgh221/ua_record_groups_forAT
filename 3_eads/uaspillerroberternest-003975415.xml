@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1979</p>
+            <p>Transfer, 1979</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,7 +101,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Architecture -- North Carolina -- Durham -- History -- 20th century</subject>
-         <persname source="lcsh" encodinganalog="600">Spiller, Robert Ernest,  1896-1988  </persname>
+         <persname source="lcsh" encodinganalog="600">Spiller, Robert Ernest, 1896-1988</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- History -- 20th century</corpname>
       </controlaccess>
    </archdesc>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1977</p>
+            <p>Transfer, 1977</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,10 +104,10 @@
          <p>Contents include correspondence, a course syllabus, observation report on a student-teacher, memoranda, and other materials concerning Phi Delta Theta, and the Junaluska Summer School (Lake Junaluska). Correspondents include Paul N. Garber, A. S. Pearse, and W. A. Brownell.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Brownell, William A. (William Arthur), 1895-1977  </persname>
-         <persname source="lcsh" encodinganalog="600">Childs, Benjamin Guy.    </persname>
-         <persname source="lcsh" encodinganalog="600">Garber, Paul N. (Paul Neff), 1899-1972  </persname>
-         <persname source="lcsh" encodinganalog="600">Pearse, A. S. (Arthur Sperry), 1877-1956  </persname>
+         <persname source="lcsh" encodinganalog="600">Brownell, William A. (William Arthur), 1895-1977</persname>
+         <persname source="lcsh" encodinganalog="600">Childs, Benjamin Guy.</persname>
+         <persname source="lcsh" encodinganalog="600">Garber, Paul N. (Paul Neff), 1899-1972</persname>
+         <persname source="lcsh" encodinganalog="600">Pearse, A. S. (Arthur Sperry), 1877-1956</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Department of Education -- Faculty</corpname>
          <corpname source="lcsh" encodinganalog="610">Phi Delta Theta Fraternity.</corpname>
          <geogname source="lcsh" encodinganalog="651">Lake Junaluska (N.C.)</geogname>

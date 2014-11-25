@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1977</p>
+            <p>Transfer, 1977</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -104,8 +104,8 @@
          <p>Includes photocopies related to musical organizations at Trinity College in the early 1920s. Contains a copy of a letter written by Turrentine to Benjamin E. Powell, dated 28 October 1974, in which Turrentine reminisces about his days in the Trinity College Band. Also included are photocopies of the title pages of two musical works composed by Turrentine.</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Powell, Benjamin E. (Benjamin Edward), 1905-1981  </persname>
-         <persname source="lcsh" encodinganalog="600">Turrentine, Walter William,  1901-  </persname>
+         <persname source="lcsh" encodinganalog="600">Powell, Benjamin E. (Benjamin Edward), 1905-1981</persname>
+         <persname source="lcsh" encodinganalog="600">Turrentine, Walter William, 1901-</persname>
          <corpname source="lcsh" encodinganalog="610">Trinity College (Durham, N.C.). Band</corpname>
       </controlaccess>
    </archdesc>

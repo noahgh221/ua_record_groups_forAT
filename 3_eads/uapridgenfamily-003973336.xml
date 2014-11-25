@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1999</p>
+            <p>Transfer, 1999</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -102,8 +102,8 @@
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Personal narratives</subject>
          <subject source="lcsh" encodinganalog="650">Woodworking tools</subject>
-         <persname source="lcsh" encodinganalog="600">Pridgen, Linton.    </persname>
-         <persname source="lcsh" encodinganalog="600">Pridgen, Lorraine.    </persname>
+         <persname source="lcsh" encodinganalog="600">Pridgen, Linton.</persname>
+         <persname source="lcsh" encodinganalog="600">Pridgen, Lorraine.</persname>
          <famname source="lcsh" encodinganalog="600">Pridgen family.   </famname>
          <geogname source="lcsh" encodinganalog="651">Durham (N.C.) -- History -- 20th century</geogname>
       </controlaccess>

@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1981</p>
+            <p>Transfer, 1981</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -100,7 +100,7 @@
          <p>Correspondence, writings and other papers, covering a period from 1922-1931; the material touches on Nielsen's career as a graduate student and his first years as an instructor at Duke University in physics. Other material includes papers relating to his award of a National Research Fellowship in 1929 and also includes a typescript of a lecture entitled "The Nature of the Impacts between Atoms, Electrons and Radiation."</p>
       </scopecontent>
       <controlaccess>
-         <persname source="lcsh" encodinganalog="600">Nielsen, Walter McKinley,  1900-  </persname>
+         <persname source="lcsh" encodinganalog="600">Nielsen, Walter McKinley, 1900-</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Faculty</corpname>
          <corpname source="lcsh" encodinganalog="610">Duke University. Department of Physics -- Faculty</corpname>
       </controlaccess>

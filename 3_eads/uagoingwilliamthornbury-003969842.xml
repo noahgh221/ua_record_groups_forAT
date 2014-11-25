@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1989</p>
+            <p>Transfer, 1989</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,7 +101,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">Personal narratives</subject>
-         <persname source="lcsh" encodinganalog="600">Going, William Thornbury,  1915-  </persname>
+         <persname source="lcsh" encodinganalog="600">Going, William Thornbury, 1915-</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Alumni and alumnae</corpname>
       </controlaccess>
    </archdesc>

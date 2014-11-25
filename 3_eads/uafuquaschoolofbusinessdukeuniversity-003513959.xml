@@ -51,10 +51,7 @@
             <corpname encodinganalog="110">Fuqua School of Business (Duke University)</corpname>
          </origination>
          <unittitle label="Title" encodinganalog="245">A tribute to Rex Adams, Dean Emeritus, the Fuqua School of Business</unittitle>
-         <unitdate normal="????/????"
-                   type="inclusive"
-                   era="ce"
-                   calendar="gregorian">undated</unitdate>
+         <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>

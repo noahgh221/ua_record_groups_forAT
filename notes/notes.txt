@@ -4,16 +4,25 @@
 
 185/272 are "Temporary Records"
 
-17 note closed
+17 records marked "closed"
 
-Dumping Subject headings into generic note field so as not to pollute subject/name tables in AT
+Many un-DACS-ified titles like "Papers" and "Collection"
+	-can clean up as needed
+
+323 unique controlaccess terms
+	Tracy could clean up after migration to AT, these should sort by last-update-date
+
+Dumping Subject headings into generic note field so as not to pollute subject/name tables in AT?
 
 Will need to clean up EADID, URL, Filenames before publishing
 
 Mapped all 5xx note fields to <note> field in AT
 
 Need to isolate lin. ft statements to populate extent field [done, sort of]
-	Tracy should clean up 148ish records with item counts
+	Tracy could clean up 148ish records with item counts
+	262 records have extent statement
+
+
 
 
 	

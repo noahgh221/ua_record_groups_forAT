@@ -87,7 +87,7 @@
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
-            <p>Transfer; 1988</p>
+            <p>Transfer, 1988</p>
          </acqinfo>
          <processinfo>
             <head>Processing Information</head>
@@ -101,7 +101,7 @@
       </scopecontent>
       <controlaccess>
          <subject source="lcsh" encodinganalog="650">World War, 1939-1945 -- Personal narratives</subject>
-         <persname source="lcsh" encodinganalog="600">Fike, Claude E.    </persname>
+         <persname source="lcsh" encodinganalog="600">Fike, Claude E.</persname>
          <corpname source="lcsh" encodinganalog="610">Duke University -- Alumni and alumnae</corpname>
       </controlaccess>
    </archdesc>
