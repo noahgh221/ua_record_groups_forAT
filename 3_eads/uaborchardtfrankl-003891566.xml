@@ -60,7 +60,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>19,000 items</extent>
+            <extent>19000 items</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Personal and professional papers. Some subjects include: Calis (computer aided language instruction); Calico presentations and manuals; NSA contracts and proposals; German Department administrative materials; Duke Language Tool kit. </abstract>
@@ -76,7 +76,7 @@
          </accessrestrict>
          <userestrict encodinganalog="540">
             <head>Use Restrictions</head>
-            <p>Copyright for Official University records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+            <p>Copyright for official university records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>

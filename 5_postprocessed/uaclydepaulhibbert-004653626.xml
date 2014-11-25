@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+   <eadheader findaidstatus="Temp_record"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b"
+              repositoryencoding="iso15511"
+              scriptencoding="iso15924">
+      <eadid countrycode="US"
+             mainagencycode="US-NcD"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Paul H. Clyde papers, 1972. //EN"
+             url="http://library.duke.edu/rubenstein/findingaids/uaclydepaulhibbert/">uaclydepaulhibbert</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Guide to the Paul H. Clyde papers, 1972</titleproper>
+            <author>Processed by: University Archives Staff; finding aid derived from MARC record using DukeMARC2EAD_ua_record_groups.xsl</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library.</publisher>
+            <address>
+               <addressline>Duke University</addressline>
+               <addressline>Durham, NC 27708 U.S.A.</addressline>
+               <addressline>919-660-5822</addressline>
+               <addressline>special-collections@duke.edu</addressline>
+            </address>
+            <date normal="2014"
+                  encodinganalog="date"
+                  era="ce"
+                  calendar="gregorian">2014</date>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>Aleph Number: <num type="aleph">004653626</num>
+               </p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>Finding aid derived from MARC record via DukeMARC2EAD_ua_record_groups.xsl <date era="ce" calendar="gregorian">November 2014</date>
+         </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <head>Descriptive Summary</head>
+         <repository label="Repository">
+            <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University</corpname>
+         </repository>
+         <unitid>UA.29.02.0219</unitid>
+         <origination label="Creator">
+            <persname encodinganalog="100">Clyde, Paul Hibbert, 1896-1998</persname>
+         </origination>
+         <unittitle label="Title" encodinganalog="245">Paul H. Clyde papers</unittitle>
+         <unitdate normal="1972/1972"
+                   type="inclusive"
+                   era="ce"
+                   calendar="gregorian">1972</unitdate>
+         <langmaterial>
+            <language langcode="eng"/>
+         </langmaterial>
+         <langmaterial label="Language of Materials">Language: English</langmaterial>
+         <note label="Language of Materials">
+            <p>Language: English</p>
+         </note>
+         <physdesc>
+            <extent>3 items</extent>
+         </physdesc>
+         <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
+         <abstract label="Abstract">Typed transcript of an oral history interview conducted by University Librarian, Benjamin Powell, circa November 1972, with penciled corrections by Professor Clyde. Subjects include the history department, Duke's presidents from Few to Knight, the Summer Session, the University Committee on Long-Range Planning, the development of Canadian and Commonwealth Studies, the Gross-Edens Affair, and the Duke Endowment. Folder also includes cover letter and oral history contract. </abstract>
+      </did>
+      <descgrp type="admininfo">
+         <head>Administrative Information</head>
+         <accessrestrict encodinganalog="506">
+            <head>Access Restrictions</head>
+            <p>Collection is open for research.</p>
+            <p>Researchers must register and agree to copyright and privacy laws before using this collection.</p>
+            <p>All or portions of this collection may be housed off-site in Duke University's Library Service Center. The library may require up to 48 hours to retrieve these materials for research use.</p>
+            <p>Please contact Research Services staff before visiting the University Archives to use this collection.</p>
+         </accessrestrict>
+         <userestrict encodinganalog="540">
+            <head>Use Restrictions</head>
+            <p>Copyright for official university records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+         </userestrict>
+         <prefercite encodinganalog="524">
+            <head>Preferred Citation</head>
+            <p>[Identification of item], in the Paul H. Clyde papers, 1972, Duke University Archives, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+         </prefercite>
+         <processinfo>
+            <head>Processing Information</head>
+            <p>Processed by: University Archives Staff</p>
+            <p>Finding aid derived from MARC record, November 2014</p>
+         </processinfo>
+      </descgrp>
+      <bioghist>
+         <head>Historical Note</head>
+         <p>Paul H. Clyde was a specialist in Far Eastern history and wrote several textbooks. He served as Director of the Summer Session at Duke from 1950-1960 and was a member of the staff of The Duke Endowment from 1961-1969. He came to Duke in 1937, retired in 1961, and died in 1998.</p>
+      </bioghist>
+      <scopecontent>
+         <head>Collection Overview</head>
+         <p>Typed transcript of an oral history interview conducted by University Librarian, Benjamin Powell, circa November 1972, with penciled corrections by Professor Clyde. Subjects include the history department, Duke's presidents from Few to Knight, the Summer Session, the University Committee on Long-Range Planning, the development of Canadian and Commonwealth Studies, the Gross-Edens Affair, and the Duke Endowment. Folder also includes cover letter and oral history contract.</p>
+      </scopecontent>
+      <note label="General note">
+         <p>This folder resides in Small Collections, kept on-site. Please consult Archives staff for more information.</p>
+      </note>
+      <note label="General note">
+         <p>This transcript is open for use. The reel-to-reel tape was discarded for reasons unknown.</p>
+      </note>
+      <controlaccess>
+         <persname source="lcsh" encodinganalog="600">Clyde, Paul Hibbert, 1896-1998</persname>
+         <corpname source="lcsh" encodinganalog="610">Duke Endowment -- History</corpname>
+         <corpname source="lcsh" encodinganalog="610">Duke University. Department of History</corpname>
+         <corpname source="lcsh" encodinganalog="610">Duke University. Summer Session</corpname>
+         <corpname source="lcsh" encodinganalog="610">Duke University. University Committee on Long-Range Planning</corpname>
+         <corpname source="lcsh" encodinganalog="610">Duke University. Commonwealth-Studies Center</corpname>
+         <corpname source="lcsh" encodinganalog="610">Duke University. Canadian Studies Center</corpname>
+         <corpname source="lcsh" encodinganalog="610">Duke University. Gross-Edens Affair</corpname>
+      </controlaccess>
+   </archdesc>
+</ead>

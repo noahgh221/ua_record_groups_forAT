@@ -332,7 +332,7 @@
   
 <xsl:when test="contains($extent_string, 'item') and not(contains($extent_string, 'lin'))">
   <physdesc>
-    <extent><xsl:value-of select="substring-before($extent_string,'item')"/><xsl:text> items</xsl:text></extent>
+    <extent><xsl:value-of select="translate(substring-before($extent_string,'item'), ',','')"/><xsl:text> items</xsl:text></extent>
   </physdesc>
 </xsl:when>
 
@@ -440,7 +440,7 @@
           
           <userestrict encodinganalog="540">
             <head>Use Restrictions</head>
-            <p>Copyright for Official University records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+            <p>Copyright for official university records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
           </userestrict>
 
           <prefercite encodinganalog="524">

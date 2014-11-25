@@ -63,7 +63,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>35,000 items</extent>
+            <extent>35000 items</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
       </did>
@@ -78,7 +78,7 @@
          </accessrestrict>
          <userestrict encodinganalog="540">
             <head>Use Restrictions</head>
-            <p>Copyright for Official University records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
+            <p>Copyright for official university records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.</p>
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
